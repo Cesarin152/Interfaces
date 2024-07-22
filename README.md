@@ -108,7 +108,7 @@ void drawDropdownMenu(const char* label, const char* options[], int optionCount,
 - **expanded**: Estado del menú desplegable (expandido o no).
 
 ## Ejemplos
-###Ejemplo 1: Menú con Checkbox, Radio Button y Slider
+### Ejemplo 1: Menú con Checkbox, Radio Button y Slider
 ```cpp
 #include <U8g2lib.h>
 #include "Interfaces.h"
